@@ -16,3 +16,4 @@ hello git1-------duanjiahao master
 hello git1----------我是v1修改的冲突
 
 Add by xulei
+Add by xulei2
